@@ -1,0 +1,5 @@
+G:\CheckLoginTest\CheckLoginTest\bin\Debug\CheckLoginTest.exe.config
+G:\CheckLoginTest\CheckLoginTest\bin\Debug\CheckLoginTest.exe
+G:\CheckLoginTest\CheckLoginTest\bin\Debug\CheckLoginTest.pdb
+G:\CheckLoginTest\CheckLoginTest\obj\Debug\CheckLoginTest.exe
+G:\CheckLoginTest\CheckLoginTest\obj\Debug\CheckLoginTest.pdb
